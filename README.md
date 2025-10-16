@@ -8,9 +8,6 @@
    <a href="https://t.me/dropzzz" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegram" height="22px" width="22px" />
   </a>
-  <a href="https://mail.google.com" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.width-500.format-webp.webp" alt="gmail" height="22px" width="22px" />
-  </a>
   <a href="https://leetcode.com/u/3hczBolK1K/" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://raw.githubusercontent.com/Kanawanagasaki/vsc-leetcode/master/images/logo.png" height="22px" width="22px" />
   </a>
